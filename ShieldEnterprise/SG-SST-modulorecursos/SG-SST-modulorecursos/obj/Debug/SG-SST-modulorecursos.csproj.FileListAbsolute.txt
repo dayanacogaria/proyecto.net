@@ -1,0 +1,13 @@
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\bin\Debug\bin\Debug\SG-SSTMR.mdf
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\bin\Debug\bin\Debug\SG-SSTMR_log.ldf
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\bin\Debug\SG-SST-modulorecursos.exe
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\bin\Debug\SG-SST-modulorecursos.pdb
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\obj\Debug\SG-SST-modulorecursos.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\obj\Debug\SG_SST_modulorecursos.Properties.Resources.resources
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\obj\Debug\SG-SST-modulorecursos.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\obj\Debug\SG-SST-modulorecursos.exe
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\obj\Debug\SG-SST-modulorecursos.pdb
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\obj\Debug\SG_SST_modulorecursos.Vista.frmListarPersonal.resources
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\obj\Debug\SG_SST_modulorecursos.Vista.frmregper.resources
+C:\Users\usuario\Documents\Adsi\visual studio .Net\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\obj\Debug\SG-SST-modulorecursos.exe
+C:\Users\usuario\Documents\Adsi\visual studio .Net\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\obj\Debug\SG-SST-modulorecursos.pdb

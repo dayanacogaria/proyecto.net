@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\bin\Release\bin\Debug\SG-SSTMR.mdf
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\bin\Release\bin\Debug\SG-SSTMR_log.ldf
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\bin\Release\SG-SST-modulorecursos.exe
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\bin\Release\SG-SST-modulorecursos.pdb
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\obj\Release\SG_SST_modulorecursos.Properties.Resources.resources
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\obj\Release\SG_SST_modulorecursos.Vista.frmListarPersonal.resources
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\obj\Release\SG_SST_modulorecursos.Vista.frmRegPersonal.resources
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\obj\Release\SG-SST-modulorecursos.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\obj\Release\SG-SST-modulorecursos.exe
+C:\Users\usuario\Desktop\ShieldEnterprise\SG-SST-modulorecursos\SG-SST-modulorecursos\obj\Release\SG-SST-modulorecursos.pdb
